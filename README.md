@@ -72,21 +72,10 @@ After training, the model is evaluated on the test set:
 - **Classification Report**: Precision, recall, F1-score, and support for both classes (Raveling and Non-Raveling) are displayed.
 - **Accuracy**: The overall accuracy of the model is calculated.
 
-Example output:
-```text
-              precision    recall  f1-score   support
-           0       0.94      0.97      0.95        61
-           1       0.97      0.95      0.96        79
-
-    accuracy                           0.96       140
-   macro avg       0.96      0.96      0.96       140
-weighted avg       0.96      0.96      0.96       140
-
-Accuracy: 0.9571
-
 ### Conclusion
 
-* This project successfully demonstrates the application of machine learning for classifying images into Raveling and Non-Raveling categories using color and texture features. The model performs well with an accuracy of approximately 96%, making it suitable for practical use in image classification tasks.
+This project successfully demonstrates the application of machine learning for classifying images into Raveling and Non-Raveling categories using color and texture features. The model performs well with an accuracy of approximately 96%, making it suitable for practical use in image classification tasks.
+
 
 
 
