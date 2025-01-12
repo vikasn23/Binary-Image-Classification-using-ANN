@@ -83,3 +83,10 @@ Example output:
 weighted avg       0.96      0.96      0.96       140
 
 Accuracy: 0.9571
+
+# Conclusion
+
+* This project successfully demonstrates the application of machine learning for classifying images into Raveling and Non-Raveling categories using color and texture features. The model performs well with an accuracy of approximately 96%, making it suitable for practical use in image classification tasks.
+
+
+
