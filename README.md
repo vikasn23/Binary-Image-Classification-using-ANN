@@ -8,7 +8,7 @@ This repository contains the code and steps for image classification of "Ravelin
 2. [Feature Extraction for Test Dataset](#feature-extraction-for-test-dataset)
 3. [Image Classification Model](#image-classification-model)
 4. [Evaluation and Testing](#evaluation-and-testing)
-5. [Final Predictions](#final-predictions)
+5. [Conclusion](Conclusion)
 
 ---
 
